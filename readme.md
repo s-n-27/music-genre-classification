@@ -32,7 +32,7 @@ The results of the CNN and CRNN models will be displayed in the form of accuracy
 - Libraries: `numpy`, `librosa`, `matplotlib`, `tensorflow`, `keras`, `sklearn`
 
 ## Authors
-- **Author 1** - [GitHub Profile](https://github.com/author1)
+- **Nilesh Singla** - [GitHub Profile](https://github.com/s-n-27)
 - **Manas Jhawar** - [GitHub Profile](https://github.com/Jhawar04manas)
 - **Author 3** - [GitHub Profile](https://github.com/author3)
 - **Author 4** - [GitHub Profile](https://github.com/author4)
