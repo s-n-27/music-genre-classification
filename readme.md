@@ -35,5 +35,5 @@ The results of the CNN and CRNN models will be displayed in the form of accuracy
 - **Nilesh Singla** - [GitHub Profile](https://github.com/s-n-27)
 - **Manas Jhawar** - [GitHub Profile](https://github.com/Jhawar04manas)
 - **Aniket Gupta** - [GitHub Profile](https://github.com/aniket-gupta91)
-- **Author 4** - [GitHub Profile](https://github.com/author4)
+- **Arush Jain** - [GitHub Profile](https://github.com/arushjain609)
 
