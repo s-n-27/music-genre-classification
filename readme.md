@@ -37,3 +37,6 @@ The results of the CNN and CRNN models will be displayed in the form of accuracy
 - **Aniket Gupta** - [GitHub Profile](https://github.com/aniket-gupta91)
 - **Arush Jain** - [GitHub Profile](https://github.com/arushjain609)
 
+## Guiding Professor
+- **Dr. Teena Sharma** - [WebPage](https://fac.iitg.ac.in/teena/studentactivities.html)
+
